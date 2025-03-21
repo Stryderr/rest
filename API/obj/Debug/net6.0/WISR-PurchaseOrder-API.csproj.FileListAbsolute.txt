@@ -1,0 +1,7 @@
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\API\obj\Debug\net6.0\WISR-PurchaseOrder-API.csproj.AssemblyReference.cache
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\API\obj\Debug\net6.0\WISR-PurchaseOrder-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\API\obj\Debug\net6.0\WISR-PurchaseOrder-API.AssemblyInfoInputs.cache
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\API\obj\Debug\net6.0\WISR-PurchaseOrder-API.AssemblyInfo.cs
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\API\obj\Debug\net6.0\WISR-PurchaseOrder-API.csproj.CoreCompileInputs.cache
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\API\obj\Debug\net6.0\WISR-PurchaseOrder-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\API\obj\Debug\net6.0\WISR-PurchaseOrder-API.MvcApplicationPartsAssemblyInfo.cache

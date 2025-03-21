@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WISR-PurchaseOrder-API", "WISR-PurchaseOrder-API.csproj", "{52DEC866-60B4-45CC-B8BC-75DE02F867AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. API", "1. API", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Domain", "2. Domain", "{F0C3D936-5F4D-4451-B06E-BF5AE177EDF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. DataAccess", "3. DataAccess", "{6EDE5C51-0923-4E09-96A6-A5049A5D8B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S0WISRXX.PurchaseOrder.Domain", "..\Domain\S0WISRXX.PurchaseOrder.Domain\S0WISRXX.PurchaseOrder.Domain.csproj", "{ABC80557-31FA-69C6-C290-4F548AB27566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S0WISRXX.PurchaseOrder.Repository", "..\Data Access\S0WISRXX.PurchaseOrder.Repository\S0WISRXX.PurchaseOrder.Repository.csproj", "{185E804E-1B02-263B-0FF1-719AC7A4D8DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Crosscutting", "4. Crosscutting", "{893BF7C8-F4E4-4192-A536-D224CF6B6C91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S0WISRXX.PurchaseOrder.Crosscutting", "..\Crosscutting\S0WISRXX.PurchaseOrder.Crosscutting\S0WISRXX.PurchaseOrder.Crosscutting.csproj", "{6B33B479-B283-4B58-ABBD-C36297BBC346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52DEC866-60B4-45CC-B8BC-75DE02F867AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DEC866-60B4-45CC-B8BC-75DE02F867AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DEC866-60B4-45CC-B8BC-75DE02F867AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DEC866-60B4-45CC-B8BC-75DE02F867AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC80557-31FA-69C6-C290-4F548AB27566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC80557-31FA-69C6-C290-4F548AB27566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC80557-31FA-69C6-C290-4F548AB27566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC80557-31FA-69C6-C290-4F548AB27566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185E804E-1B02-263B-0FF1-719AC7A4D8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185E804E-1B02-263B-0FF1-719AC7A4D8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185E804E-1B02-263B-0FF1-719AC7A4D8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185E804E-1B02-263B-0FF1-719AC7A4D8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B33B479-B283-4B58-ABBD-C36297BBC346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B33B479-B283-4B58-ABBD-C36297BBC346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B33B479-B283-4B58-ABBD-C36297BBC346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B33B479-B283-4B58-ABBD-C36297BBC346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{52DEC866-60B4-45CC-B8BC-75DE02F867AA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{ABC80557-31FA-69C6-C290-4F548AB27566} = {F0C3D936-5F4D-4451-B06E-BF5AE177EDF4}
+		{185E804E-1B02-263B-0FF1-719AC7A4D8DE} = {6EDE5C51-0923-4E09-96A6-A5049A5D8B2F}
+		{6B33B479-B283-4B58-ABBD-C36297BBC346} = {893BF7C8-F4E4-4192-A536-D224CF6B6C91}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {418032F8-DE78-4092-8DF7-49106C921523}
+	EndGlobalSection
+EndGlobal
