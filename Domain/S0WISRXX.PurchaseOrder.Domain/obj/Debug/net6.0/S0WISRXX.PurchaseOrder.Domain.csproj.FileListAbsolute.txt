@@ -1,0 +1,4 @@
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\Domain\S0WISRXX.PurchaseOrder.Domain\obj\Debug\net6.0\S0WISRXX.PurchaseOrder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\Domain\S0WISRXX.PurchaseOrder.Domain\obj\Debug\net6.0\S0WISRXX.PurchaseOrder.Domain.AssemblyInfoInputs.cache
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\Domain\S0WISRXX.PurchaseOrder.Domain\obj\Debug\net6.0\S0WISRXX.PurchaseOrder.Domain.AssemblyInfo.cs
+C:\Users\CP00E2C\source\repos\WISR-PurchaseOrder\api\src\Domain\S0WISRXX.PurchaseOrder.Domain\obj\Debug\net6.0\S0WISRXX.PurchaseOrder.Domain.csproj.CoreCompileInputs.cache
